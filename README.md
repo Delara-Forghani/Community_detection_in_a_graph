@@ -15,8 +15,10 @@ This program can store the graph via adjacent linkedList or adjacent matrix.
 To run a test the user should write a CSV text file consisting the edge list of the graph ,for example "3,4" ,each edge should 
 be specified by its two vertices and written in a seperate line .At the beginning of the program the user will be asked to 
 give the file path ,then they should write their desired command.
+
 Examples of user's commands :
-<br Run + storage type + sorting algorithm />
+
+Run + storage type + sorting algorithm
+
 * RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬  
-‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Merge‬‬
 ‫‪‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬

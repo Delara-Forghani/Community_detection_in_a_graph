@@ -24,6 +24,6 @@ Run + storage type + sorting algorithm
 
 ‫‪‫‪* RUN‬‬ ‫‪LinkedList‬‬ 
 
-*‫‪RUN‬‬ ‫‪LinkedList‬‬ Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
+*‫‪ RUN‬‬ ‫‪LinkedList‬‬ Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
 
 

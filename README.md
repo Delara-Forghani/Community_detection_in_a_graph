@@ -20,10 +20,10 @@ Examples of user's commands :
 
 Run + storage type + sorting algorithm
 
-* RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬ 
+*RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬ 
 
-‫‪‫‪* RUN‬‬ ‫‪LinkedList‬‬ 
+‫‪‫‪*RUN‬‬ ‫‪LinkedList‬‬ 
 
-*‫‪ RUN‬‬ ‫‪LinkedList‬‬ Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
+*‫‪RUN‬‬ ‫‪LinkedList‬‬ Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
 
 

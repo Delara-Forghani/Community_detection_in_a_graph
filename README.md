@@ -18,7 +18,6 @@ give the file path ,then they should write their desired command.
 
 ## user's command example
 Run + storage type + sorting algorithm
-  
 * RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬  
 ‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Merge‬‬
 ‫‪‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬

@@ -23,11 +23,8 @@ Run + storage type + sorting algorithm
 ‬‬* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Quick‬‬
 * RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬
 ‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Insertion‬‬
-‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Insertion‬‬
-‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Merge‬‬
 ‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Merge‬‬
 ‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Bubble‬‬
-* RUN‬‬ ‫‪Matrix‬‬ ‫‪Bubble‬‬
 ‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
 ‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬
 ‬‬‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Optimum‬‬ ‫‪Bubble‬‬ ‫‪N‬‬

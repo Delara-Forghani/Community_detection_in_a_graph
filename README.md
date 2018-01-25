@@ -16,7 +16,7 @@ To run a test the user should write a CSV text file consisting the edge list of 
 be specified by its two vertices and written in a seperate line .At the beginning of the program the user will be asked to 
 give the file path ,then they should write their desired command.
 Examples of user's commands :
-Run + storage type + sorting algorithm
+<br Run + storage type + sorting algorithm />
 * RUN‬‬ ‫‪Matrix‬‬ ‫‪Quick‬‬  
 ‫‪* RUN‬‬ ‫‪Matrix‬‬ ‫‪Merge‬‬
 ‫‪‫‪* RUN‬‬ ‫‪LinkedList‬‬ ‫‪Optimum‬‬ ‫‪Insertion‬‬ ‫‪N‬‬

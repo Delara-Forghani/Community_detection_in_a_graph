@@ -9,7 +9,7 @@ two subarrays ,if it was less than N (N is a number defined by the user at the b
 The algorithm terminates when the graph is divided into two parts . Each part involves the commiunities of the graph.
 
 ## Storing the graph 
-This program can store the grap via adjacent linkeList or adjacent matrix.
+This program can store the graph via adjacent linkeList or adjacent matrix.
 
 ## Running the test
 To run a test the user should write a CSV text file consisting the edge list of the graph ,for example "3,4" ,each edge should 
